@@ -1,0 +1,35 @@
+.section {
+    min-height: 1000px;
+    overflow: hidden;
+    position: 'relative';
+    padding: 80px 10px 0px;
+}
+#Home {
+    background: url("img/Buster (157).jpg")no-repeat center center fixed;
+    background-size: cover;
+}
+#About {
+    background: url("img/7.jpg")no-repeat center center fixed;
+    background-size: cover;
+}
+#Home div. #About div {
+    background-color: rgba(225,20,0.5);
+}
+#About p {
+    padding: 10px;
+}
+.section:nth-child(even) {
+    background-color: #ccc;
+}
+p {
+    color: white;
+}
+.bluetext {
+    color:blue;
+}
+.white {
+    color: white;
+}
+.blacktext {
+    color: black;
+}
